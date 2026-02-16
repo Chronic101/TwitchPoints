@@ -19,5 +19,5 @@ pip install keyboard
 ```bash
 git clone https://github.com/Chronic101/TwitchPoints.git
 cd TwitchPoints
-python TwitchPoints.py
+python puntosdecanal.py
 ```
